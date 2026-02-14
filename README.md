@@ -27,8 +27,8 @@ This profile serves as my **collaboration hub**, where I focus on:
 
 ### 📫 Let's Connect
 * **Primary Dev Profile:** [evyex](https://github.com/evyex)
-* **Telegram:** [@your_handle]
-* **LinkedIn:** [linkedin.com/in/your_profile]
+* **Telegram:** [@Evgenij_vy](https://t.me/Evgenij_vy)
+* **LinkedIn:** [linkedin.com/in/evgenijvy/](https://www.linkedin.com/in/evgenijvy/)
 
 ---
 *"Good code is not just about what you write, but how you improve what is already there."*
