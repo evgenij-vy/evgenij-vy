@@ -16,6 +16,16 @@ Here live my practical libraries and engineering concepts.
 
 ---
 
+### 🧩 Experience
+
+Developed backend systems from small CRUD projects to enterprise-level ERP and fintech platforms.
+
+Led teams of up to 15 engineers, aligning architecture, execution, and product direction.
+
+I care more about the trajectory of a system than its current snapshot.
+
+---
+
 ### 📊 Activity on this account (evgenij-vy)
 
 Collaboration-first profile focused on:
