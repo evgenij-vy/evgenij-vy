@@ -20,8 +20,8 @@ This profile serves as my **collaboration hub**, where I focus on:
 * **Upstream Contributions** (bug fixes and feature requests).
 * **Forking & Researching** tools to adapt them for specific workflows.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evgenij-vy&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgenij-vy&layout=compact&theme=tokyonight)
+![GitHub Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ---
 
