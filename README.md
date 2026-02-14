@@ -1,24 +1,27 @@
 # Hi there! I'm Evgeniy 👋
 
-### 🛠 Focus & Expertise
-I am a software developer focused on **open-source contribution**, architectural research, and collaborative development. 
+### 🧠 Focus & Expertise
+PHP / Symfony engineer focused on clean architecture and domain-driven design.  
+Deep into Doctrine ORM, performance tuning, and long-term maintainability.  
+Building systems that stay readable under pressure.
 
 ---
 
-### 🚀 Looking for my personal projects?
-To maintain a clean workflow, I host my original source code, pet projects, and architectural experiments on my primary development account:
+### 💡 Idea Lab & Utilities
 
-👉 **[github.com/evyex](https://github.com/evyex)** — **Main Dev Profile**
+A space for real backend tools, reusable components, and architectural experiments.
+Here live my practical libraries and engineering concepts.
 
-Visit the link above to see my latest builds, library contributions, and experimental repositories.
+👉 https://github.com/evyex
 
 ---
 
 ### 📊 Activity on this account (evgenij-vy)
-This profile serves as my **collaboration hub**, where I focus on:
-* **Code Reviews** and deep-diving into complex codebases.
-* **Upstream Contributions** (bug fixes and feature requests).
-* **Forking & Researching** tools to adapt them for specific workflows.
+
+Collaboration-first profile focused on:
+- PR discussions and deep dives into complex codebases
+- Upstream contributions (fixes, proposals, improvements)
+- Forking and adapting tools to real workflows
 
 ![GitHub Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
